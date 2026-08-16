@@ -1,0 +1,2 @@
+-- Deprecated: EcoVision AI now uses Supabase PostgreSQL.
+-- Run database/supabase_schema.sql instead.
